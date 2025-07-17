@@ -4,6 +4,9 @@ Deployment of Aws ec2 infrastructure with terraform using github-actions to auto
 
 <img width="920" height="488" alt="Image" src="https://github.com/user-attachments/assets/095ff392-d068-4f20-a603-a734d108ed6f" />
 
+
+<img width="565" height="517" alt="Image" src="https://github.com/user-attachments/assets/9321be29-c18d-4797-8616-6a560eb039f1" />
+
 #### Project overview
 
 1.IAM user Setup: create an IAM user with administrative access and generate secret key and access key for that user.

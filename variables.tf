@@ -26,26 +26,26 @@ variable "cidr_vpc" {
 variable "instance_type" {
   type        = string
   description = "variable instance type"
-  default     = "t2.micro"
+  default     = "t3.micro"
 }
 
 variable "ami" {
   type        = string
   description = "variable AMI ID"
-  default     = "ami-0eb260c4d5475b901"
+  default     = "ami-0c1ac8a41498c1a9c"
 }
 
 variable "avail_zone" {
   type    = string
-  default = "eu-west-2a"
+  default = "eu-north-1a"
 }
 
 
 variable "key_name" {
   type = string
-  default = "devopskey2"
+  default = "Timtee"
 }
 variable "region" {
   type = string
-  default = "eu-west-2"
+  default = "eu-north-1"
 }
